@@ -25,4 +25,4 @@ copy helloos.img ..\z_tools\qemu\fdimage0.bin
 ..\z_tools\imgtol.com w a: helloos.img
 ```
 4. 将projects\01_day\helloos0\helloos.img拷贝到helloos0目录中。
-5. 进入helloos0目录，双击!cons_nt.bat后然后输入run即可
+5. 进入helloos0目录，双击!cons_nt.bat后然后输入run即可。（win95/98/Me的用户需要双击!cons_9x.bat）
