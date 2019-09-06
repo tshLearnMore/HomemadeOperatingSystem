@@ -26,3 +26,7 @@ copy helloos.img ..\z_tools\qemu\fdimage0.bin
 ```
 4. 将projects\01_day\helloos0\helloos.img拷贝到helloos0目录中。
 5. 进入helloos0目录，双击!cons_nt.bat后然后输入run即可。（win95/98/Me的用户需要双击!cons_9x.bat）
+
+
+# 说明
+为了以后编译方便将"30天自制操作系统光盘\tolset"拷贝到当前目录，要是在Linux下的话，可以建立一个软连接不必实际拷贝
